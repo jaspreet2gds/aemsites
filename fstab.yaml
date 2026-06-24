@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p153424-e1601770.adobeaemcloud.com/bin/franklin.delivery/jaspreet2gds/aemsites/main"
+    url: "https://author-p153424-e1601770.adobeaemcloud.com/bin/franklin.delivery/jaspreet2gds/aemsites-dev/main"
     type: "markup"
     suffix: ".html"
   
